@@ -23,3 +23,5 @@
 ￼
 ### Run kafka-topics.sh command with already set $path
 ![run kafka-topics.sh](image.png)
+
+##
