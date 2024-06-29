@@ -20,8 +20,10 @@
 
 - end of output should contain info for server:
 ![alt text](<Pasted Graphic.png>)
-￼
-### Run kafka-topics.sh command with already set $path
-![run kafka-topics.sh](image.png)
 
-##
+- useful docs:
+
+    https://www.conduktor.io/kafka/how-to-install-apache-kafka-on-mac-without-zookeeper-kraft-mode/
+￼
+### Run kafka-topics.sh command with already set $path to binaries
+![run kafka-topics.sh](image.png)
