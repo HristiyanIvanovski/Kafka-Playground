@@ -36,3 +36,5 @@ end of output should contain info for server:
         - `nano ~/.bash_profile`
         - Add `PATH="$PATH:/your/path/to/your/kafka/bin"`
             - Example: `PATH="$PATH:~/kafka_2.13-3.1.0/bin"`
+
+next steps..
